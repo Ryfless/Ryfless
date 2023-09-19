@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ryfless
-- 👀 I’m interested in Something about Tech & Anime
-- 🌱 I’m currently learning algorithm
+- 👀 I’m interested in Something about Information Technology
+- 🤖 I'm also curious about AI, Machine learning, IOT Etc.
+- 🌱 I’m currently learning Programming Languages
 - 💞️ I’m looking to collaborate on ...
 - ☺ Thanks for Visiting my Profile
 
