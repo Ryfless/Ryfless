@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ryfless
-- 👀 I’m interested in Web and Mobile development
+- 👀 I’m interested in Web and Mobile Development
 - 🤖 I'm also curious about AI, Machine learning, IOT Etc.
 - 🌱 I’m currently learning Programming Languages
 - 💞️ I’m looking to collaborate on ...
