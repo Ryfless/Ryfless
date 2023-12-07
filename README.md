@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ryfless
+- 👋 Hi, I’m Arazi Rafli
 - 👀 I’m interested in Web and Mobile Development
 - 🤖 I'm also curious about AI, Machine learning, IOT Etc.
 - 🌱 I’m currently learning Programming Languages
