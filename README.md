@@ -1,4 +1,4 @@
-👋 Hi, I’m Arazi Rafli...
+👋 Hi, I’m Arazi Rafli... <br/>
 Undergraduate of Computer Science
 I'm IT enthusiasm
 
