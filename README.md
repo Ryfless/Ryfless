@@ -1,5 +1,5 @@
 👋 Hi, I’m Arazi Rafli... <br/>
-Undergraduate of Computer Science
+Undergraduate of Computer Science <br/>
 I'm IT enthusiasm
 
 <!---
