@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Arazi Rafli
-- 👀 I’m interested in Web and Mobile Development
-- 🤖 I'm also curious about AI, Machine learning, IOT Etc.
-- 🌱 I’m currently learning Basic Programming
-- 💞️ I’m looking to collaborate on ...
-- ☺ Thanks for Visiting my Profile
+👋 Hi, I’m Arazi Rafli...
+Undergraduate of Computer Science
+I'm IT enthusiasm
 
 <!---
 Ryfless/Ryfless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
