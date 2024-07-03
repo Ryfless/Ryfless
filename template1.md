@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Arazi Rafli
+- 👀 I’m interested in Web and Mobile Development
+- 🤖 I'm also curious about AI, Machine learning, IOT Etc.
+- 🌱 I’m currently learning Basic Programming
+- 💞️ I’m looking to collaborate on ...
+- ☺ Thanks for Visiting my Profile
